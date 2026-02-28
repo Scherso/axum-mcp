@@ -1,1 +1,10 @@
 /target
+
+# OS X
+.DS_Store
+
+# JetBrains
+.idea/
+
+# Rust
+Cargo.lock
